@@ -1,0 +1,3 @@
+venv
+cmake-build-release
+cmake-build-debug

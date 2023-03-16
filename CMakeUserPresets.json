@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/rich/workspace/cpp-hello/cmake-build-release/CMakePresets.json"
+    ]
+}
