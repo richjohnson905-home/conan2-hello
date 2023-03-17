@@ -1,7 +1,9 @@
 #include <iostream>
 #include <CLI/CLI.hpp>
+#include <spdlog/spdlog.h>
 
 int main(int argc, char **argv) {
+    spdlog::info("App is starting!");
     CLI::App app("App Desc");
 
     int p = 0;

@@ -4,6 +4,6 @@
         "conan": {}
     },
     "include": [
-        "/home/rich/workspace/cpp-hello/cmake-build-release/CMakePresets.json"
+        "/home/rich/workspace/cpp-hello/build/CMakePresets.json"
     ]
 }

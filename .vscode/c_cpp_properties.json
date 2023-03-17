@@ -4,13 +4,16 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${HOME}/.conan2/**"
+                "/home/rich/.conan2/**",
+                "/home/rich/.conan2/p/cli11328f4586e88b7/p/include",
+                "/home/rich/.conan2/p/spdlo6ca5946192e2b/p/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "c17",
             "cppStandard": "gnu++17",
-            "intelliSenseMode": "linux-gcc-x64"
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
         }
     ],
     "version": 4

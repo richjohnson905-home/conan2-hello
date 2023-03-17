@@ -1,4 +1,6 @@
 message(STATUS "Building Unit Tests")
+set_property(GLOBAL PROPERTY CTEST_TARGETS_ADDED 1)
+enable_testing()
 include(CTest)
 
 find_package(Catch2)
